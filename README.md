@@ -9,6 +9,8 @@
 |---|---|---|---|
 | FDE2E Center（本机软件工具中心） | v0.1.0 | macOS · Apple Silicon | [`FDE2E-Center-0.1.0-arm64.dmg`](https://github.com/jixoai/fde2e-releases/releases/download/center-v0.1.0/FDE2E-Center-0.1.0-arm64.dmg) |
 | FDE2E BU Bridge（多控浏览器插件） | v1.5.1 | Chromium 扩展（unpacked zip） | [`fde2e-bu-bridge-v1.5.1.zip`](https://github.com/jixoai/fde2e-releases/releases/download/bu-v1.5.1/fde2e-bu-bridge-v1.5.1.zip) |
+| FDE2E Computer Use Agent（桌面控制组件） | v0.1.0 | Windows · x64 | [`FDE2E-CU-windows-x64-setup.exe`](https://github.com/jixoai/fde2e-releases/releases/download/cua-v0.1.0/FDE2E-CU-windows-x64-setup.exe) |
+| FDE2E Computer Use Agent（桌面控制组件） | v0.1.0 | macOS · Apple Silicon（签名＋公证） | [`FDE2E-CU-macos-arm64.dmg`](https://github.com/jixoai/fde2e-releases/releases/download/cua-v0.1.0/FDE2E-CU-macos-arm64.dmg) |
 
 每个 Release 附 `SHA256SUMS.txt`——下载后请校验（macOS：`shasum -a 256 <文件>`；Windows：`Get-FileHash <文件> -Algorithm SHA256`）。
 
